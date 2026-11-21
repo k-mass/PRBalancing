@@ -14,13 +14,16 @@ BAMYAN
      4x Technical                  M2HB Technical                 Respawn: 5m
      1x Technical                  Rocket Technical               Respawn: 5m
      3x Technical                  SPG-9 Technical                Respawn: 5m
-  [USMC]  tickets: 750
-     5x Armed Jeep                 M1151 Up-Armored HMMWV         Respawn: 5m
-     1x Attack Jet                 A-10A Thunderbolt II           Delay: 5m | Respawn: 20m
-     3x Logistics Truck            M35 Logistics                  Respawn: 5m
-     2x Support Truck              M35 2.5 Ton                    Respawn: 5m
-     1x Transport Helicopter       MV-22 Osprey                   Respawn: 5m
-     2x Transport Jeep             M1038A1 HMMWV                  Respawn: 5m
+  [Russian Armed Forces]  tickets: 750
+     1x Recon Vehicle              BRDM-2                         Respawn: 10m
+     1x APC                        BTR-60PB                       Respawn: 10m
+     1x IFV                        BMP-1                          Respawn: 15m
+     1x Mobile AA                  ZSU-23-4 Shilka                Delay: 5m | Respawn: 10m
+     1x Attack Jet                 Su-25 Frogfoot                 Delay: 5m | Respawn: 20m
+     3x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     3x Support Truck              Ural-4320                      Respawn: 5m
+     1x Transport Helicopter       Mi-8MT Hip-C                   Respawn: 5m
+     2x Transport Jeep             UAZ-3151 Support               Respawn: 5m
 
 --- AAS Standard (64) ---
   [Middle Eastern Coalition]  tickets: 800
@@ -40,7 +43,7 @@ BAMYAN
      2x IFV                        M2A2 Bradley ODS               Respawn: 20m
      2x Logistics Truck            M35 Logistics                  Respawn: 5m
      2x Support Truck              M35 2.5 Ton                    Respawn: 5m
-     1x Transport Helicopter       CH-47D Chinook                 Respawn: 5m
+     1x Transport Helicopter       CH-47D Chinook                 Respawn: 10m
      1x Transport Helicopter       UH-60L Blackhawk               Respawn: 5m
 
 --- AAS Large (128) ---
