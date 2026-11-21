@@ -18,44 +18,46 @@ VADSO CITY
      1x Boat                       RHIB                           Delay: 5m | Respawn: 15m
      2x Logistics Truck            MAN SV Logistics               Respawn: 5m
      3x Support Truck              MAN Support Vehicle            Respawn: 5m
-     1x Transport Helicopter       Chinook HC.4                   Respawn: 5m
+     1x Transport Helicopter       Chinook HC.4                   Respawn: 10m
      1x Transport Helicopter       Merlin HC3                     Respawn: 5m
      2x Transport Jeep             Land Rover Support             Respawn: 5m
 
 --- AAS Alternative (32) ---
   [Russian Armed Forces]  tickets: 600
      1x APC                        BTR-80                         Delay: 5m | Respawn: 10m
+     1x APC                        BTR-82AM                       Delay: 5m | Respawn: 10m
      2x Armed Jeep                 GAZ Tigr                       Respawn: 5m
      1x Armed Jeep                 GAZ Tigr Arbalet-DM            Delay: 5m | Respawn: 10m
      1x Armed Transport Helicopter KA-29 CAS S-8KOM Light         Delay: 20m | Respawn: 15m
      1x ATGM Vehicle               9P149 Shturm-S                 Delay: 5m | Respawn: 10m
      2x Boat                       RHIB                           Respawn: 5m
-     2x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     3x Logistics Truck            KamAZ-5350                     Respawn: 5m
      3x Support Truck              KamAZ-4350                     Respawn: 5m
      1x Tank                       T-90A                          Delay: 20m | Respawn: 20m
      2x Transport Helicopter       KA-29                          Respawn: 5m
-  [United States Army]  tickets: 600
-     1x APC                        M1126 Stryker ICV              Delay: 5m | Respawn: 10m
-     1x APC                        M1126 Stryker ICV MK19         Delay: 5m | Respawn: 10m
+  [USMC]  tickets: 600
+     1x APC                        AAVP7A1 RAM/RS                 Delay: 5m | Respawn: 10m
+     1x APC                        LAV-25                         Delay: 5m | Respawn: 10m
      2x Armed Jeep                 M1151 Up-Armored HMMWV         Respawn: 5m
      1x Armed Jeep                 M1151 Up-Armored HMMWV MK19    Delay: 5m | Respawn: 10m
      2x Boat                       RHIB                           Respawn: 5m
      1x Boat                       RHIB                           Delay: 5m | Respawn: 15m
-     1x Light Attack Helicopter    OH-58D Kiowa Hydra             Delay: 20m | Respawn: 15m
-     2x Logistics Truck            M35 Logistics                  Respawn: 5m
+     1x Light Attack Helicopter    UH-1N Twin Huey CAS            Delay: 20m | Respawn: 15m
+     3x Logistics Truck            M35 Logistics                  Respawn: 5m
      3x Support Truck              M35 2.5 Ton                    Respawn: 5m
-     1x Tank                       M1A2 Abrams                    Delay: 20m | Respawn: 20m
-     1x Transport Helicopter       CH-47D Chinook                 Respawn: 5m
-     1x Transport Helicopter       UH-60L Blackhawk               Respawn: 5m
+     1x Tank                       M1A1 Abrams                    Delay: 20m | Respawn: 20m
+     1x Transport Helicopter       MV-22 Osprey                   Respawn: 10m
+     1x Transport Helicopter       UH-1N Twin Huey                Respawn: 5m
 
 --- AAS Standard (64) ---
   [Russian Armed Forces]  tickets: 600
-     2x APC                        BTR-80                         Delay: 5m | Respawn: 10m
+     1x APC                        BTR-80                         Delay: 5m | Respawn: 10m
+     1x APC                        BMP-2                          Delay: 5m | Respawn: 10m
      1x Armed Jeep                 GAZ Tigr Arbalet-DM            Delay: 5m | Respawn: 10m
      1x Attack Helicopter          Mi-28N Havoc                   Delay: 20m | Respawn: 20m
      2x Boat                       RHIB                           Respawn: 5m
-     2x Logistics Truck            KamAZ-5350                     Respawn: 5m
-     1x Mobile AA                  9K35 Gopher                    Delay: 20m | Respawn: 20m
+     3x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     1x Mobile AA                  9K22 Tunguska                  Delay: 20m | Respawn: 15m
      3x Support Truck              KamAZ-4350                     Respawn: 5m
      1x Tank                       T-90A                          Delay: 20m | Respawn: 20m
      2x Transport Helicopter       KA-29                          Respawn: 5m
@@ -66,10 +68,10 @@ VADSO CITY
      1x Attack Helicopter          Apache AH1                     Delay: 20m | Respawn: 20m
      2x Boat                       RHIB                           Respawn: 5m
      1x Boat                       RHIB                           Delay: 5m | Respawn: 15m
-     2x Logistics Truck            MAN SV Logistics               Respawn: 5m
-     1x Mobile AA                  Stormer HVM                    Delay: 20m | Respawn: 20m
+     3x Logistics Truck            MAN SV Logistics               Respawn: 5m
+     1x Mobile AA                  Stormer HVM                    Delay: 20m | Respawn: 15m
      3x Support Truck              MAN Support Vehicle            Respawn: 5m
      1x Tank                       FV4034 Challenger 2            Delay: 20m | Respawn: 20m
-     1x Transport Helicopter       Chinook HC.4                   Respawn: 5m
+     1x Transport Helicopter       Chinook HC.4                   Respawn: 10m
      1x Transport Helicopter       Merlin HC3                     Respawn: 5m
      2x Transport Jeep             Land Rover Support             Respawn: 5m
