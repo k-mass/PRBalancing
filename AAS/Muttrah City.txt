@@ -5,12 +5,16 @@ MUTTRAH CITY
 --- AAS Standard (64) ---
   [Middle Eastern Coalition]  tickets: 750
      1x APC                        BTR-80                         Delay: 10m | Respawn: 10m
-     1x IFV                        BMP-2M                         Delay: 10m | Respawn: 20m
+     1x APC                        BTR-60PB                       Delay: 10m | Respawn: 10m
+     1x APC                        BMP-2                          Delay: 10m | Respawn: 15m
+     1x IFV                        BMP-1                          Delay: 10m | Respawn: 15m
      1x Logistics APC              MTP-LB                         Delay: 10m | Respawn: 10m
-     2x Logistics Truck            Ural-4320 Logistics            Delay: 5m | Respawn: 5m
+     3x Logistics Truck            Ural-4320 Logistics            Delay: 5m | Respawn: 5m
      4x Support Truck              Ural-4320                      Respawn: 5m
+     2x Support Truck              Ural-4320                      Respawn: never
   [USMC]  tickets: 750
      2x APC                        AAVP7A1 RAM/RS                 Respawn: 7m30s
+     1x APC                        LAV-25                         Respawn: 7m30s
      1x Attack Helicopter          AH-1 SuperCobra                Delay: 10m | Respawn: 20m
     50x Boat                       RHIB                           Respawn: 2m
      1x Logistics Truck            M35 Logistics                  Delay: 5m | Respawn: 5m
