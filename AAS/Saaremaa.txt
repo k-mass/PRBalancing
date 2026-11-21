@@ -4,75 +4,79 @@ SAAREMAA
 
 --- AAS Infantry (16) ---
   [Russian Armed Forces]  tickets: 600
-     1x APC                        BTR-80                         Respawn: 10m
+     1x Armed Jeep                 GAZ Tigr Arbalet-DM            Respawn: 10m
+     2x Transport Jeep             GAZ Tigr Support               Respawn: 5m
      2x Boat                       RHIB                           Respawn: 2m
      3x Logistics Truck            KamAZ-5350                     Respawn: 5m
-     1x Support Truck              KamAZ-4350                     Respawn: 5m
+     2x Support Truck              KamAZ-4350                     Respawn: 5m
      4x Support Truck              KamAZ-4350                     Respawn: never
      2x Transport Helicopter       KA-29                          Respawn: 5m
-  [USMC]  tickets: 600
-     1x APC                        AAVP7A1 RAM/RS                 Respawn: 10m
+  [British Armed Forces]  tickets: 600
+     1x Armed Jeep                 Panther CLV                    Respawn: 10m
+     2x Transport Jeep             Land Rover Support             Respawn: 5m
      2x Boat                       RHIB                           Respawn: 2m
-     3x Logistics Truck            M35 Logistics                  Respawn: 5m
-     1x Support Truck              M35 2.5 Ton                    Respawn: 5m
-     4x Support Truck              M35 2.5 Ton                    Respawn: never
-     1x Transport Helicopter       MV-22 Osprey                   Respawn: 10m
-     2x Transport Helicopter       UH-1N Twin Huey                Respawn: 5m
+     3x Logistics Truck            MAN SV Logistics               Respawn: 5m
+     2x Support Truck              MAN Support Vehicle            Respawn: 5m
+     4x Support Truck              MAN Support Vehicle            Respawn: never
+     2x Transport Helicopter       Merlin HC3                     Respawn: 5m
 
 --- AAS Alternative (32) ---
   [Russian Armed Forces]  tickets: 650
-     3x APC                        BTR-80                         Respawn: 10m
-     1x APC                        BTR-82AM                       Respawn: 10m
-     2x Armed Jeep                 GAZ Tigr                       Respawn: 7m30s
+     2x APC                        MT-LBVMK                       Respawn: 10m
+     2x APC                        BMP-2                          Delay: 5m  | Respawn: 10m
+     1x Attack Helicopter          Mi-28N Havoc                   Delay: 20m | Respawn: 20m
      2x Boat                       RHIB                           Respawn: 2m
      3x Logistics Truck            KamAZ-5350                     Respawn: 5m
      1x Support Truck              KamAZ-4350                     Respawn: 5m
      2x Transport Helicopter       KA-29                          Respawn: 5m
+  [French Armed Forces]  tickets: 650
+     2x APC                        VAB VTT                        Respawn: 10m
+     2x APC                        VBCI                           Delay: 5m  | Respawn: 10m
+     1x Attack Helicopter          EC 665 Tigre HAP               Delay: 20m | Respawn: 20m
+     2x Boat                       RHIB                           Respawn: 2m
+     3x Logistics Truck            GBC 180 Logistics              Respawn: 5m
+     1x Support Truck              GBC-180                        Respawn: 5m
+     2x Transport Helicopter       NH90 NFH                       Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Russian Armed Forces]  tickets: 650
+     2x APC                        BTR-80                         Respawn: 10m
+     2x APC                        BTR-82AM                       Respawn: 10m
+     2x Armed Jeep                 GAZ Tigr                       Respawn: 7m30s
+     2x Boat                       RHIB                           Respawn: 2m
+     3x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     2x Support Truck              KamAZ-4350                     Respawn: 5m
+     3x Transport Helicopter       KA-29                          Respawn: 5m
   [USMC]  tickets: 650
      2x APC                        AAVP7A1 RAM/RS                 Respawn: 10m
      2x APC                        LAV-25                         Respawn: 10m
      2x Armed Jeep                 M1151 Up-Armored HMMWV         Respawn: 7m30s
      2x Boat                       RHIB                           Respawn: 2m
      3x Logistics Truck            M35 Logistics                  Respawn: 5m
-     1x Support Truck              M35 2.5 Ton                    Respawn: 5m
-     1x Transport Helicopter       MV-22 Osprey                   Respawn: 10m
-     2x Transport Helicopter       UH-1N Twin Huey                Respawn: 5m
-
---- AAS Standard (64) ---
-  [Russian Armed Forces]  tickets: 650
-     3x APC                        BTR-80                         Respawn: 10m
-     1x APC                        BTR-82AM                       Respawn: 10m
-     1x Attack Helicopter          Mi-28N Havoc                   Delay: 20m | Respawn: 20m
-     2x Boat                       RHIB                           Respawn: 2m
-     3x Logistics Truck            KamAZ-5350                     Respawn: 5m
-     1x Support Truck              KamAZ-4350                     Respawn: 5m
-     2x Transport Helicopter       KA-29                          Respawn: 5m
-  [USMC]  tickets: 650
-     2x APC                        AAVP7A1 RAM/RS                 Respawn: 10m
-     2x APC                        LAV-25                         Respawn: 10m
-     1x Attack Helicopter          AH-1 SuperCobra                Delay: 20m | Respawn: 20m
-     2x Boat                       RHIB                           Respawn: 2m
-     3x Logistics Truck            M35 Logistics                  Respawn: 5m
-     1x Support Truck              M35 2.5 Ton                    Respawn: 5m
+     2x Support Truck              M35 2.5 Ton                    Respawn: 5m
      1x Transport Helicopter       MV-22 Osprey                   Respawn: 10m
      2x Transport Helicopter       UH-1N Twin Huey                Respawn: 5m
 
 --- AAS Large (128) ---
   [Russian Armed Forces]  tickets: 650
-     2x APC                        BTR-80                         Respawn: 10m
-     1x APC                        BTR-82AM                       Respawn: 10m
+     3x APC                        BTR-80                         Respawn: 10m                   
      1x Armed Jeep                 GAZ Tigr                       Respawn: 7m30s
      2x Boat                       RHIB                           Respawn: 2m
      3x Logistics Truck            KamAZ-5350                     Respawn: 5m
      1x Support Truck              KamAZ-4350                     Respawn: 5m
-     1x Tank                       T-90A                          Delay: 20m | Respawn: 20m
+     2x Armed Transport Helicopter KA-29 CAS S-8KOM Light         Delay: 10m | Respawn: 20m
      2x Transport Helicopter       KA-29                          Respawn: 5m
+     If airfield can be added:
+    (1x Multirole Jet              Su-27SM Flanker-B              Delay: 20m | Respawn: 20m)
+
   [USMC]  tickets: 650
      3x APC                        AAVP7A1 RAM/RS                 Respawn: 10m
      1x Armed Jeep                 M1151 Up-Armored HMMWV         Respawn: 7m30s
      2x Boat                       RHIB                           Respawn: 2m
      3x Logistics Truck            M35 Logistics                  Respawn: 5m
      1x Support Truck              M35 2.5 Ton                    Respawn: 5m
-     1x Tank                       M1A1 Abrams                    Delay: 20m | Respawn: 20m
+     1x Light Attack Helicopter    UH-1N Twin Huey CAS            Delay: 10m | Respawn: 20m
      1x Transport Helicopter       MV-22 Osprey                   Respawn: 10m
      2x Transport Helicopter       UH-1N Twin Huey                Respawn: 5m
+     If airfield can be added:
+    (1x Multirole Jet              F/A-18C Hornet                 Delay: 20m | Respawn: 20m)
